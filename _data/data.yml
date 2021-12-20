@@ -39,11 +39,11 @@ career-profile:
     summary:
     
 education:
-    - university: SuperNova School
+    - university: SuperNova High School
       time: 2020-2022
-      details: 
+      details: |
         GPA: 4.0
-        Honors: Merit-based scholarship
+        Honors: 100% Merit-based Scholarship
 
 experiences:
     - role: Engineering Intern
