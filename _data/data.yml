@@ -15,7 +15,7 @@ sidebar:
     email: abisandhu53@gmail.com
     phone: +92 300 9553553
     github: m-abdullah-i
-    telegram: # add your nickname without '@' sign
+ 
     
     languages:
       - idiom: English
@@ -95,14 +95,12 @@ projects:
 
 lexperiences:
     details: |
+        As a leader on campus I have help the following roles throughout
+        my highschool:
         - President, Robotics Club
-        
-            - Two time regional Roots Robotics Competition winner
-            
+                - Two time regional Roots Robotics Competition winner 
         - Vice President, Environment Club
-        
         - Treasurer, Astronomy Club
-        
         - Peer Mentor, Nova Peer Mentoring Program
 
 skills:
@@ -124,5 +122,5 @@ skills:
       - name: Word, Excel, PowerPoint
         level: 85%
 
-      - name: Python
+      - name: Python and HTML
         level: 30%
