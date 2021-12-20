@@ -38,8 +38,18 @@ sidebar:
         link:
 
 career-profile:
-    title: Career Profile
-    summary:
+    title: About me
+    summary: |
+        Mankind is capable of and has achieved nothing short of miracles. But like it or 
+        not we are plagued with problems, ranging from religion and politics to energy 
+        and resources. It is true that you and I exist at the pinnacle of civilization, 
+        a time where flight and instantaneous communication is commonplace. However, our
+        problems too have advanced to extraordinary scales. In such a short life, one can 
+        barely make a scratch in the face of our tremendous obstacles. Call me naive, as 
+        others have, but I wish to make more than a scratch; I wish to achieve the magnitudes 
+        of progress that came from the minds of Galileo, Newton, Tesla, and others. I dream 
+        of a world not perfect but very well damn near.
+        
     
 education:
     - university: SuperNova High School
