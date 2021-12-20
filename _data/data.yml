@@ -50,14 +50,21 @@ experiences:
       time: Summer 2021
       company: Jadeed Builders, Islamabad, Pakistan
       details: |
-        Over the summer, I was given the oppurtunity to be an engineering intern at Jadeed Builders.
-            - Assisted with project planning, execution and engineering research related to suburban residence projects.
-            - Conduted site investigation to apprehend environmental impacts of potential structures with fellow engineers
-            - Helped in developing site repair engineering solutions with low cost estimates for material, equipment and labor.
-            - Daily monitoring of current construction sites via tracking progress, consulting with contractors and on-site engineers. 
-            - Analysed blueprints and geological information for potential construction project sites. 
-            - Introduced to data management using Python and HTML.
-            - Assisted in developing and implementing sustainable strategies which are cost-effective and minimized long-term environmental liabilities.
+        Over the summer, I was given the oppurtunity to be an engineering 
+        intern at Jadeed Builders.
+          - Assisted with project planning, execution and engineering 
+            research related to suburban residence projects.
+          - Conduted site investigation to apprehend environmental impacts of 
+          potential structures with fellow engineers
+          - Helped in developing site repair engineering solutions with low 
+          cost estimates for material, equipment and labor.
+          - Daily monitoring of current construction sites via tracking progress, 
+          consulting with contractors and on-site engineers. 
+          - Analysed blueprints and geological information for potential construction 
+          project sites.
+          - Introduced to data management using Python and HTML.
+          - Assisted in developing and implementing sustainable strategies which are 
+          cost-effective and minimized long-term environmental liabilities.
 
 projects:
     title: Projects
@@ -90,8 +97,6 @@ lexperiences:
     - details: |
         President, Robotics Club
             - Two time regional Roots Robotics Competition winner
-    - details: |
-        Two time regional Roots Robotics Competition winner 
     - details: |
         Vice President, Environment Club
     - details: |
