@@ -94,14 +94,25 @@ projects:
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 lexperiences:
-    details: |
-        As a leader on campus I have help the following roles throughout
-        my highschool:
-        - President, Robotics Club
-                - Two time regional Roots Robotics Competition winner 
-        - Vice President, Environment Club
-        - Treasurer, Astronomy Club
-        - Peer Mentor, Nova Peer Mentoring Program
+    - role: President, Robotics Club
+      details: |
+        Dealt with the design, construction, operation, and use of robots, as well as 
+        computer systems for their control, sensory feedback, and efficiency.
+            - Two time regional Roots Robotics Competition 
+            winner. 
+    - role: Vice President, Environment Club
+      details: |
+        Committed to raising awareness about environmental issues and to reducing 
+        environmental impact as individuals, and as a community.
+    - role: Treasurer, Astronomy Club
+      details: |
+        Monitored club spendings while planning and presenting financial 
+        reports on monthly budgets. 
+    - role: Peer Mentor, Nova Peer Mentoring Program
+      details: |
+        Provide guidance to freshmen through weekly meetings that ensure their 
+        engagement in academics, adjustment to social life, and managing personal health.
+ 
 
 skills:
     title: Skills &amp; Proficiency
