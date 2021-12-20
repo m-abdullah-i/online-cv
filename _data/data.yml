@@ -7,8 +7,8 @@ sidebar:
     education: True 
 
     # Profile information
-    name: Muhammad Abdullah 
-    tagline: Highschool Student
+    name: Muhammad Abdullah Islam
+    tagline: High School Student
     avatar: me.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -21,14 +21,14 @@ sidebar:
       - idiom: English
         level: Professional
 
-      - idiom: Urde
+      - idiom: Urdu
         level: Native
 
     interests:
       - item: MMA Fighting
         link:
 
-      - item: Scateboarding
+      - item: Skateboarding
         link:
 
       - item: Soccer
@@ -93,6 +93,7 @@ projects:
 
 
 lexperiences:
+
     - role: President, Robotics Club
       details: |
         Dealt with the design, construction, operation, and use of robots, 
@@ -100,14 +101,17 @@ lexperiences:
         and efficiency.
         - Our robotics team won regional Roots Robotics Competition
         two years in a row. 
+        
     - role: Vice President, Environment Club
       details: |
         Committed to raising awareness about environmental issues and to reducing 
         environmental impact as individuals, and as a community.
+        
     - role: Treasurer, Astronomy Club
       details: |
         Monitored club spendings while planning and presenting financial 
         reports on monthly budgets. 
+        
     - role: Peer Mentor, Nova Peer Mentoring Program
       details: |
         Provide guidance to freshmen through weekly meetings that ensure their 
