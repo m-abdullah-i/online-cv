@@ -127,6 +127,9 @@ skills:
       - name: Strategic Planning & Analysis 
         level: 100%
 
+      - name: Word, Excel, PowerPoint
+        level: 100%
+        
       - name: Statistical Modelling
         level: 98%
 
@@ -135,9 +138,6 @@ skills:
 
       - name: Risk Assessment & Mitigation
         level: 95%
-
-      - name: Word, Excel, PowerPoint
-        level: 85%
 
       - name: Python and HTML
         level: 30%
