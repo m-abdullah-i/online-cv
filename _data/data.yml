@@ -53,10 +53,11 @@ career-profile:
     
 education:
     - degree: SuperNova School
+      university: Islamabad, Pakistan
       time: 2020-2022
       details: |
-        GPA: 4.0
-        Honors: 100% Merit-based Scholarship 
+        GPA 4.0
+        Honors 100% Merit-based Scholarship 
 
 experiences:
     - role: Engineering Intern
