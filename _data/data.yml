@@ -9,7 +9,7 @@ sidebar:
     # Profile information
     name: Muhammad Abdullah 
     tagline: Highschool Student
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: me.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: abisandhu53@gmail.com
@@ -36,13 +36,8 @@ sidebar:
 
 career-profile:
     title: Career Profile
-    summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+    summary:
+    
 education:
     - university: SuperNova School
       time: 2020-2022
@@ -54,14 +49,14 @@ experiences:
     - role: Engineering Intern
       time: Summer 2021
       company: Jadeed Builders, Islamabad, Pakistan
-      details: 
-      - Assisted with project planning, execution and engineering research related to suburban residence projects.
-      - Conduted site investigation to apprehend environmental impacts of potential structures with fellow engineers
-      - Helped in developing site repair engineering solutions with low cost estimates for material, equipment and labor.
-      - Daily monitoring of current construction sites via tracking progress, consulting with contractors and on-site engineers. 
-      - Analysed blueprints and geological information for potential construction project sites. 
-      - Introduced to data management using Python and HTML.
-      - Assisted in developing and implementing sustainable strategies which are cost-effective and minimized long-term environmental liabilities.
+      details:
+            - Assisted with project planning, execution and engineering research related to suburban residence projects.
+            - Conduted site investigation to apprehend environmental impacts of potential structures with fellow engineers
+            - Helped in developing site repair engineering solutions with low cost estimates for material, equipment and labor.
+            - Daily monitoring of current construction sites via tracking progress, consulting with contractors and on-site engineers. 
+            - Analysed blueprints and geological information for potential construction project sites. 
+            - Introduced to data management using Python and HTML.
+            - Assisted in developing and implementing sustainable strategies which are cost-effective and minimized long-term environmental liabilities.
 
 projects:
     title: Projects
