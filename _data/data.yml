@@ -87,11 +87,17 @@ projects:
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 lexperiences:
-    - President, Robotics Club
-    - Two time regional Roots Robotics Competition winner 
-    - Vice President, Environment Club
-    - Treasurer, Astronomy Club
-    - Peer Mentor, Nova Peer Mentoring Program
+    - details: |
+        President, Robotics Club
+            - Two time regional Roots Robotics Competition winner
+    - details: |
+        Two time regional Roots Robotics Competition winner 
+    - details: |
+        Vice President, Environment Club
+    - details: |
+        Treasurer, Astronomy Club
+    - details: |
+        Peer Mentor, Nova Peer Mentoring Program
 
 skills:
     title: Skills &amp; Proficiency
