@@ -12,7 +12,12 @@
 
   {% for lexperience in lexperiences %}
   <div class="item">
-
+    
+    {% if lexperience.details %}
+      <div class="details">
+        {{ lexperience.details | markdownify }}
+      </div><!--//details-->
+      {% endif %}
 
   </div><!--//item-->
   {% endfor %}
