@@ -8,12 +8,12 @@ sidebar:
 
     # Profile information
     name: Muhammad Abdullah Islam
-    tagline: High School Student
+    tagline: Freshman at Rose-Hulman Institute of Technology
     avatar: me.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: abisandhu53@gmail.com
-    phone: +92 300 9553553
+    email: islamma@rose-hulman.com
+    phone: (312) 678-6696
     github: m-abdullah-i
  
     
@@ -34,9 +34,6 @@ sidebar:
       - item: Soccer
         link:
 
-      - item: Horse riding 
-        link:
-
 career-profile:
     title: About me
     summary: |
@@ -52,6 +49,11 @@ career-profile:
         
     
 education:
+    - degree: Bachelor of Science in Mechanical Engineering
+      university: Rose-Hulman Institute of Technology, Terre Haute, IN
+      time: 2022-2026
+      details: |
+      
     - degree: SuperNova School
       university: Islamabad, Pakistan
       time: 2020-2022
@@ -95,6 +97,11 @@ projects:
 
 
 lexperiences:
+    - role: Member, Chem-E Car Team
+      details: |
+        Currently working on building unmanned cars that are fully powered by chemical mechanisms.
+        - In progress: battery-powered and biofuel combustion-powered cars that stop at a measured distance.
+
 
     - role: President, Robotics Club
       details: |
