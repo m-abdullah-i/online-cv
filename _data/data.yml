@@ -97,14 +97,19 @@ projects:
 lexperiences:
     - role: Active Member, Chem-E Car Team
       details: |
-        Working with the battery-powered car team for the annual American Institute of Chemical Engineers Chem-E-Car competition.
-        Currently working on building unmanned cars that are fully powered by chemical mechanisms.
-        - In progress: researching and prototyping chemical cells to obtain more than one viable power source option.
+        Working with the battery-powered car team for the annual American Institute of 
+        Chemical Engineers Chem-E-Car competition.
+        - Currently working on building unmanned cars that are fully 
+        powered by only chemical mechanisms.
+        - In progress: researching and prototyping chemical cells to obtain 
+        more than one viable power source option.
 
     - role: Active Member, NASA Student Launch
       details: |
-        Payload Mechanical team member for the USLI competition rocket.
-        - In progress: developing and testing 3D-printed gimbal prototypes for the onboard camera.
+        Payload Mechanical team member for the USLI competition 
+        rocket.
+        - In progress: developing and testing 3D-printed gimbal prototypes for 
+        the onboard camera.
         
     - role: President, Robotics Club
       details: |
