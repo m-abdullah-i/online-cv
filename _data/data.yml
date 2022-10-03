@@ -87,22 +87,25 @@ projects:
      details: |
         - Monitored animals at a local veterinarian hospital 
         as a summer volunteer.
-        - Student-teacher for math and English at the 
-        Edhi Foundation.
-        - Assisted in repainting old neighborhoods around 
-        the city with the CDA Redevelopment Program.
-        - Helped supply food, water, and personal care to animals 
-        as a volunteer at an improvised Local Animal Shelter.
-
-
+        - Student-teacher for math and English at 
+        the Edhi Foundation.
+        - Assisted in repainting old neighborhoods 
+        around the city with the CDA Redevelopment Program.
+        - Supplied food, water, and personal care to animals at an 
+        improvised Local Animal Shelter.
 
 lexperiences:
-    - role: Member, Chem-E Car Team
+    - role: Active Member, Chem-E Car Team
       details: |
+        Working with the battery-powered car team for the annual American Institute of Chemical Engineers Chem-E-Car competition.
         Currently working on building unmanned cars that are fully powered by chemical mechanisms.
-        - In progress: battery-powered and biofuel combustion-powered cars that stop at a measured distance.
+        - In progress: researching and prototyping chemical cells to obtain more than one viable power source option.
 
-
+    - role: Active Member, NASA Student Launch
+      details: |
+        Payload Mechanical team member for the USLI competition rocket.
+        - In progress: developing and testing 3D-printed gimbal prototypes for the onboard camera.
+        
     - role: President, Robotics Club
       details: |
         Dealt with the design, construction, operation, and use of robots, 
@@ -155,4 +158,4 @@ skills:
         level: 95%
 
       - name: Python and HTML
-        level: 30%
+        level: 20%
